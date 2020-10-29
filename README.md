@@ -1,5 +1,5 @@
 ### 작성중
-BOJ : ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg) Gold I  
+BOJ : ![G1](https://d2gd6pc034wcta.cloudfront.net/tier/15.svg){:width="100" height="100"} Gold I  
 CodeForces : 1400(Specialist)  
   
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)  

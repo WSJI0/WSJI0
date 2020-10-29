@@ -1,5 +1,5 @@
 ### 작성중
-## BOJ : <img src="https://static.solved.ac/tier_small/15.svg" width="50">  
+## BOJ : <img src="https://static.solved.ac/tier_small/15.svg" width="10">  
 ## CodeForces : <span style="color:#03a89e">1400(Specialist)</span>  
   
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)  

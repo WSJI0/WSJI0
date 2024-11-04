@@ -8,4 +8,4 @@
      
 - Math / Algorithm
 
-- Reinforement Learning
+- Reinforcement Learning

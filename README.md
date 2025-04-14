@@ -1,6 +1,6 @@
 ## Interested in
-- Network  
-  - ICN lab Undergraduate Intern
+- Computer Networking  
+  - ICN lab Undergraduate research student
   - Congestion Control
 - Problem Solving  
      

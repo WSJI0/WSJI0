@@ -1,6 +1,7 @@
 ## Interested in
 - Computer Networking  
-  - ICN lab Undergraduate research student
+  - ICN lab M.S student
+  - Caching System
   - Congestion Control
 - Problem Solving  
      
